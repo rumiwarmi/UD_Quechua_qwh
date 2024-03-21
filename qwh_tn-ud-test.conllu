@@ -227,7 +227,7 @@
 
 # sent_id = MP-ASH-020									
 # text = Wikuñaqa alalaq hirkakunachawmi, quchakuna kuchunkunapa paaran.									
-# gloss = vicuña-TOP frío montaña-PL-LOC-ASS lago-PL orilla-POSS.3-PL-ADP vivir-3									
+# gloss = vicuña-TOP frío montaña-PL-LOC-ASS lago-PL orilla-POSS.3-PL-PROL vivir-3									
 # spa = La vicuña vive en las alturas andinas, cerca de lagos o lagunas.
 # eng = The vicuna lives in the Andean highlands, near lakes or lagoons.									
 1	Wikuña	wikuña	NOUN	_	Number=Sing	10	nsubj	_	_
@@ -240,7 +240,7 @@
 7	quchakuna	qucha	NOUN	_	Number=Plur	8	nmod:poss	_	_
 8-9	kuchunkunapa	_	_	_	_	_	_	_	_
 8	kuchunkuna	kuchu	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=3	10	advmod	_	_
-9	pa	pa	ADP	_	_	8	case	_	_
+9	pa	pa	ADP	_	Case=Prol	8	case	_	_
 10	paaran	paara-	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 11	.	.	PUNCT	_	_	10	punct	_	_
 

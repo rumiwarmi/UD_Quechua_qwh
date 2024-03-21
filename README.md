@@ -1,6 +1,6 @@
 # Summary
 
-UD Quechua-QWH is the first treebank for Ancash Quechua, a variety of the Central Andean Quechua language family. It consists of sentences extracted from several text genres: tales, narratives and a short novel.
+UD_Quechua-qwh is the first treebank for Huaylas Ancash Quechua, a variety of the Central Andean Quechua language family (ISO-639-3: qwh). It consists of sentences extracted from several text genres: tales, narratives and a short novel.
 
 # Introduction
 
@@ -10,7 +10,7 @@ The treebank includes sentences from the following sources:
 - Entries of the Ancash Quechua dictionary issued by the Peruvian Ministry of Education in 2005;
 - A set of tales published in low-circulation during the 1990s, from the *Cuentos Pintados del Perú* project (1994-2015) which aimed to support bilingual intercultural education by bringing together traditional tales from all over the world translated into Quechua.
 
-# Acknoledgments
+# Acknowledgments
 
 Many thanks to Professor Villafán Broncano who gave his consent to the use of his work for reasearch purpose.
 
