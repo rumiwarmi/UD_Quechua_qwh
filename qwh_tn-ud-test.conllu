@@ -310,7 +310,7 @@
 
 # sent_id = AKH-048			
 # text = Manam qunqayaqtsu imaypis.					
-# gloss = NEG-ASRT olvidar-VPL-HAB-NEG como.sea							
+# gloss = NEG-ASS olvidar-VPL-HAB-NEG como.sea							
 # spa = No lo olvidaban nunca.					
 # eng = They never forgot it.									
 1-2	Manam	_	_	_	_	_	_	_	_
@@ -341,4 +341,71 @@
 9	m	mi	PART	_	Evident=Fh	7	advmod:emph	_	_
 10	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = CRH-04-282									
+# text = Paykunam mana ni ima ayudata chaskiyanraqtsu.									
+# gloss = ellos-ASS NEG ni PRON ayuda-OBJ recibir-VPL-3-INACP-NEG									
+# spa = Ellos no reciben nada de ayuda todavía.
+# eng = They do not receive any kind of help yet.								
+1-2	Paykunam	_	_	_	_	_	_	_	_
+1	Paykuna	paykuna	PRON	_	PronType=Prs	8	nsubj	_	_
+2	m	mi	PART	_	Evident=Fh	1	advmod:emph	_	_
+3	mana	mana	ADV	_	Polarity=Neg	8	advmod:neg	_	_
+4	ni	ni	ADV	_	_	5	advmod:neg	_	_
+5	ima	ima	DET	_	PronType=Ind	6	det	_	_
+6-7	ayudata	_	_	_	_	_	_	_	_
+6	ayuda	ayuda	NOUN	_	Number=Sing	8	obj	_	_
+7	ta	ta	ADP	_	Case=Obj	6	case	_	_
+8-10	chaskiyanraqtsu	_	_	_	_	_	_	_	_
+8	chaskiyan	chaski-	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+9	raq	raq	PART	_	_	8	advmod	_	_
+10	tsu	tsu	PART	_	_	8	advmod:neg	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = CRH-04-250									
+# text = Nuqata señor parokum nimarqan, “Ama imatapis ashiyayraqtsu.									
+# gloss = yo-OBJ señor párroco-ASS decir-1O-PST-3 NEG.INJ lo.que.sea buscar-VPL-IMP.2-INACP-NEG									
+# spa = El señor párroco me había dicho, “No busquen nada todavía.									
+# fra = Monsieur le curé m’avait dit, « Ne cherchez rien pour le moment.									
+1-2	Nuqata	_	_	_	_	_	_	_	_
+1	Nuqa	nuqa	PRON	_	PronType=Prs	6	obj	_	_
+2	ta	ta	ADP	_	Case=Obj	1	case	_	_
+3	señor	señor	NOUN	_	Number=Sing	6	nsubj	_	_
+4-5	parokum	_	_	_	_	_	_	_	_
+4	paroku	paroku	NOUN	_	Number=Sing	7	nmod	_	_
+5	m	mi	PART	_	Evident=Fh	4	advmod:emph	_	_
+6	nimarqan	ni-	VERB	_	Number=Sing|Number[Obj]=Sing|Person=3|Person[Obj]=1|Tense=Pst	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	“	“	PUNCT	_	_	11	punct	_	_
+9	Ama	ama	ADV	_	Mood=Imp|Polarity=Neg	11	advmod:neg	_	_
+10	imatapis	imatapis	PRON	_	Case=Obj|PronType=Ind	11	advmod	_	_
+11-13	ashiyayraqtsu	_	_	_	_	_	_	_	_
+11	ashiyay	ashi-	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	6	parataxis	_	_
+12	raq	raq	PART	_	_	11	advmod	_	_
+13	tsu	tsu	PART	_	Polarity=Neg	13	advmod:neg	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = CRH-04-129									
+# text = Lomismu wawqii Carmelo Karwaschaw, “kawayantsuraq, wanuyashqatsuraq?” nir.									
+# gloss = lo.mismo hermano-POSS.1 Carmelo Carhuas-LOC vivir-VPL-3-NEG-INACP morir-VPL-PFV-NEG-INACP decir-CNV									
+# spa = Lo mismo decía mi hermano Carmelo en Carhuás “¿será que viven, habrán muerto?”									
+# fra = De la même manière mon frère Carmelo, à Carhuas, se demandait : « Vivent-ils encore, sont-ils morts ? »									
+1	Lomismu	lomismu	ADV	_	_	15	advmod	_	_
+2	wawqii	wawqi	NOUN	_	Number=Sing|Person[psor]=1	15	nsubj	_	_
+3	Carmelo	Carmelo	PROPN	_	_	2	nmod	_	_
+4-5	Karwaschaw	_	_	_	_	_	_	_	_
+4	Karwas	Karwas	PROPN	_	_	15	obl:mod	_	_
+5	chaw	chaw	ADP	_	Case=Loc	4	case	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	“	“	PUNCT	_	_	8	punct	_	_
+8-9	kawayantsuraq	_	_	_	_	_	_	_	_
+8	kawayan	kawa-	VERB	_	Number=Plur|Person=3	15	ccomp	_	_
+9	tsuraq	tsuraq	PART	_	_	8	advmod	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11-12	wanuyashqatsuraq	_	_	_	_	_	_	_	_
+11	wanuyashqa	wanu-	VERB	_	Number=Plur|Person=3|VerbForm=Part	8	conj	_	_
+12	tsuraq	tsuraq	PART	_	_	11	advmod	_	_
+13	?	?	PUNCT	_	_	8	punct	_	_
+14	”	”	PUNCT	_	_	8	punct	_	_
+15	nir	ni-	VERB	_	VerbForm=Conv	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
 
