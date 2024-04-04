@@ -1,0 +1,231 @@
+# sent_id = AKH-063
+# text = Tsaypitaqa mana mantsakushpa hatun Apukuna wayinchaw ashirnash qallakuykuyaanaq; nawpa Chawin Apukunapa wayintapis huchur qallayaanaqshi.
+# spa = Porque inmediatamente, sin guardar respeto a los dioses habían comenzado a llevarse el oro y la plata de los templos; hasta habían comenzado a destruir el templo de los antiguos dioses Chavín;
+# fra = Après cela, sans vergogne, ils commencèrent à fouiller les temples des Apus, allant même jusqu’à détruire le temple des anciens dieux Chavin.	
+1-2	Tsaypitaqa	_	_	_	_	_	_	_	_
+1	Tsaypita	tsaypita	PRON	_	_	12	advmod	_	_
+2	qa	qa	PART	_	_	_	_	_	_
+3	mana	mana	ADV	_	Polarity=Neg	4	advmod:neg	_	_
+4	mantsakushpa	mantsa-	VERB	_	Tense=Pres|VerbForm=Part	_	_	_	kU=Refl/Mid
+5	hatun	hatun	ADJ	_	_	6	amod	_	_
+6	Apukuna	Apu	NOUN	_	Number=Plur	_	_	_	_
+7-8	wayinchaw	_	_	_	_	_	_	_	_
+7	wayin	wayi	NOUN	_	Number=Sing|Person[psor]=3	_	_	_	_
+8	chaw	chaw	ADP	_	Case=Loc	7	case	_	_
+9-11	ashirnash	_	_	_	_	_	_	_	_
+9	ashir	ashi-	VERB	_	_	_	_	_	_
+10	na	na	PART	_	_	_	_	_	_
+11	sh	shi	PART	_	Evident=Nfh	_	_	_	_
+12	qallakuykuyaanaq	qalla-	VERB	_	_	_	_	_	_
+13	;	;	PUNCT	_	_	_	_	_	_
+14	nawpa	nawpa	NOUN	_	_	_	_	_	_
+15	Chawin	Chawin	PROPN	_	_	_	_	_	_
+16-17	Apukunapa	_	_	_	_	_	_	_	_
+16	Apukuna	Apu	NOUN	_	Number=Plur	_	_	_	_
+17	pa	pa	ADP	_	Case=Gen	16	case	_	_
+18-20	wayintapis	_	_	_	_	_	_	_	_
+18	wayin	wayi	NOUN	_	_	_	_	_	_
+19	ta	ta	ADP	_	Case=Obj	18	case	_	_
+20	pis	pis	PART	_	_	_	_	_	_
+21	huchur	huchu-	VERB	_	_	_	_	_	_
+22-23	qallayaanaqshi	_	_	_	_	_	_	_	_
+22	qallayaanaq	qalla-	VERB	_	Number=Plur	_	_	_	_
+23	shi	shi	PART	_	Evident=Nfh	_	_	_	_
+24	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-076
+# text = Tsaynaw nirirnam huk wamrata tsariykur ruquriyta munarqan.
+# gloss = eso-EQU decir-PCT-ACP-ASS un niño-OBJ agarrar-INTS-CNV cortar-PCT-INF-OBJ querer-PST-3							
+# spa = Cogiendo a uno intentó hacerlo.
+# eng = Saying this, he grabbed a child and wanted to cut his throat.			
+1	Tsaynaw	tsaynaw	PRON	_	_	_	_	_	_
+2-4	nirirnam	_	_	_	_	_	_	_	_
+2	nirir	ni-	VERB	_	_	_	_	_	_
+3	na	na	PART	_	_	_	_	_	_
+4	m	mi	PART	_	Evident=Fh	_	_	_	_
+5	huk	_	DET	_	_	_	_	_	_
+6-7	wamrata	_	_	_	_	_	_	_	_
+6	wamra	wamra	NOUN	_	_	_	_	_	_
+7	ta	ta	ADP	_	_	_	_	_	_
+8	tsariykur	tsari-	VERB	_	_	_	_	_	_
+9-10	ruquriyta	_	_	_	_	_	_	_	_
+9	ruquriy	ruqu-	VERB	_	_	_	_	_	_
+10	ta	ta	ADP	_	_	_	_	_	_
+11	munarqan	muna-	VERB	_	_	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-099
+# text = Tayta Amarunawmi kayan, niyaqmi mantsakashqa runakuna.							
+# spa = Como el tayta Amaru son esos toros, decían temerosos los runas.
+1	Tayta	tayta	NOUN	_	_	_	_	_	_
+2-4	Amarunawmi	_	_	_	_	_	_	_	_
+2	Amaru	Amaru	PROPN	_	_	_	_	_	_
+3	naw	naw	ADP	_	_	_	_	_	_
+4	mi	mi	PART	_	Evident=Fh	_	_	_	_
+5	kayan	ka-	AUX	_	Number=Plur	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7-8	niyaqmi	_	_	_	_	_	_	_	_
+7	niyaq	_	VERB	_	_	_	_	_	_
+8	mi	mi	PART	_	Evident=Fh	_	_	_	_
+9	mantsakashqa	_	VERB	_	_	_	_	_	_
+10	runakuna	_	NOUN	_	Number=Plur	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-119
+# text = Apariq mitaqkuna, waskakunawan, qaratsa pikshakunawan apayaq rumi rumintin qillayniita, españakunapa mulinunkunaman, hornunkunaman, hatun wayi ingeniu nishqan Kutakancha urannin Tampu mayu kunchunkama.	
+# gloss = cargar-AGT mitayo-PL soga-PL-COM pellejo morral-PL-COM llevar-VPL-AGT piedra plata-POSS.1-OBJ Españoles-GEN molino-POSS.3-PL-DAT horno-POSS.3-PL-DAT grande casa ingenio decir-PP-3 Kutakancha abajo-POSS.3 Tampu río orilla-POSS.3-TER	
+# spa = Los mitayos apires o cargadores, con sus sogas y capachos de cuero cargaban el mineral hasta los molinos y hornos del ingenio, más abajo de Cuta Cancha junto al río Tampu.		
+1	Apariq	apa-	VERB	_	_	_	_	_	_
+2	mitaqkuna	mitaq	NOUN	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4-5	waskakunawan	_	_	_	_	_	_	_	_
+4	waskakuna	waska	NOUN	_	_	_	_	_	_
+5	wan	wan	ADP	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	qaratsa	_	NOUN	_	_	_	_	_	_
+8-9	pikshakunawan	_	_	_	_	_	_	_	_
+8	pikshakuna	piksha	NOUN	_	_	_	_	_	_
+9	wan	wan	ADP	_	_	_	_	_	_
+10	apayaq	apa-	VERB	_	_	_	_	_	_
+11	rumi	rumi	NOUN	_	_	_	_	_	_
+12	rumintin	rumi	NOUN	_	_	_	_	_	_
+13-14	qillayniita	_	_	_	_	_	_	_	_
+13	qillaynii	qillay	NOUN	_	_	_	_	_	_
+14	ta	ta	ADP	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16-17	españakunapa	_	_	_	_	_	_	_	_
+16	españakuna	españakuna	NOUN	_	Number=Plur	_	_	_	_
+17	pa	pa	ADP	_	_	_	_	_	_
+18-19	mulinunkunaman	_	_	_	_	_	_	_	_
+18	mulinukuna	mulinu	NOUN	_	Number=Plur	_	_	_	_
+19	man	man	ADP	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21-22	hornunkunaman	_	_	_	_	_	_	_	_
+21	hornunkuna	hornu	NOUN	_	_	_	_	_	_
+22	man	man	ADP	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	hatun	hatun	ADJ	_	_	_	_	_	_
+25	wayi	wayi	NOUN	_	_	_	_	_	_
+26	ingeniu	ingeniu	NOUN	_	_	_	_	_	_
+27	nishqan	ni-	VERB	_	_	_	_	_	_
+28	Kutakancha	Kutakancha	PROPN	_	_	_	_	_	_
+29	urannin	uran	NOUN	_	_	_	_	_	_
+30	Tampu	Tampu	PROPN	_	_	_	_	_	_
+31	mayu	mayu	NOUN	_	_	_	_	_	_
+32-33	kunchunkama	_	_	_	_	_	_	_	_
+32	kunchun	kunchu	NOUN	_	_	_	_	_	_
+33	kama	kama	ADP	_	_	_	_	_	_
+34	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-192	
+# text = Awkinkuna niyaqta wiyaq kaami: “Imanaw kanqanpis musyakuynatsu; españakunam banderanta markaakunaman churarayaamun, tsayta hitakacharkurnam patriotakuna hina banderanta hawiyaraamun; niykurqa mosu runaakunata apakuyan ejercitunpaq ishkanpis.	
+# gloss = anciano-POSS.3-PL decir-VPL-AGT-OBJ escuchar-HAB AUX-1-ASS cómo suceder-SUB-POSS.3-COORD entender-REFL/MID-INF-ACP-NEG Españoles-ASS bandera-POSS.3-OBJ ciudad-POSS.1.PL.EXCL-DAT poner-PCT-VPL-CIS-3 eso-OBJ arrojar-DISP-EDU-CNV-ACP-ASS patriota-PL igualmente bandera-POSS.3-OBJ plantar-VPL-DUR-CIS-3 decir-INTS-CNV-TOP moso hombre-POSS.1PL.INCL llevar-REFL/MID-VPL-3 ejercito-POSS.3-BEN dos-POSS.3-COORD	
+# spa = Les escuchaba decir a sus ancianos: “No entendemos bien lo que pasa: los españoles colocan su bandera en nuestro pueblo, los criollos lo arrojan y colocan el suyo; por otra parte ambos se llevan a nuestros jóvenes para su ejército.	
+# fra = Je les écoutais dire à leurs anciens : « Impossible de comprendre ce qu’il se passe : les Espagnols viennent mettre leur drapeau dans notre ville, puis les Patriotes l’arrachent et plantent le leur; d’autre part, les uns comme les autres emmènent nos jeunes pour leur armée. »  	
+1	Awkinkuna	awki	NOUN	_	_	_	_	_	_
+2-3	niyaqta	_	_	_	_	_	_	_	_
+2	niyaq	ni-	VERB	_	_	_	_	_	_
+3	ta	ta	ADP	_	_	_	_	_	_
+4	wiyaq	wiya-	VERB	_	_	_	_	_	_
+5-6	kaami	_	_	_	_	_	_	_	_
+5	kaa	ka-	AUX	_	_	_	_	_	_
+6	mi	mi	PART	_	Evident=Fh	_	_	_	_
+7	:	:	PUNCT	_	_	_	_	_	_
+8	“	“	PUNCT	_	_	_	_	_	_
+9	Imanaw	imanaw	ADV	_	_	_	_	_	_
+10-11	kanqanpis	_	_	_	_	_	_	_	_
+10	kanqan	ka-	AUX	_	_	_	_	_	_
+11	pis	pis	PART	_	_	_	_	_	_
+12-14	musyakuynatsu	_	_	_	_	_	_	_	_
+12	musyakuy	musya-	VERB	_	_	_	_	_	_
+13	na	na	PART	_	_	_	_	_	_
+14	tsu	tsu	PART	_	Polarity=Neg	_	_	_	_
+15	;	;	PUNCT	_	_	_	_	_	_
+16-17	españakunam	_	_	_	_	_	_	_	_
+16	españakuna	españakuna	NOUN	_	_	_	_	_	_
+17	m	mi	PART	_	Evident=Fh	_	_	_	_
+18-19	banderanta	_	_	_	_	_	_	_	_
+18	banderan	bandera	NOUN	_	_	_	_	_	_
+19	ta	ta	ADP	_	_	_	_	_	_
+20-21	markaakunaman	_	_	_	_	_	_	_	_
+20	markaakuna	marka	NOUN	_	_	_	_	_	_
+21	man	man	ADP	_	_	_	_	_	_
+22	churarayaamun	chura-	VERB	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	tsayta	tsayta	_	_	_	_	_	_	_
+25-27	hitakacharkurnam	_	_	_	_	_	_	_	_
+25	hitakacharkur	hita-	VERB	_	_	_	_	_	_
+26	na	na	PART	_	_	_	_	_	_
+27	m	mi	PART	_	Evident=Fh	_	_	_	_
+28	patriotakuna	patriota	NOUN	_	_	_	_	_	_
+29	hina	hina	ADV	_	_	_	_	_	_
+30-31	banderanta	_	_	_	_	_	_	_	_
+30	banderan	bandera	NOUN	_	_	_	_	_	_
+31	ta	ta	ADP	_	_	_	_	_	_
+32	hawiyaraamun	hawi-	VERB	_	Number=Plur	_	_	_	raA=Dur|mu=Cis
+33	;	;	PUNCT	_	_	_	_	_	_
+34-35	niykurqa	_	_	_	_	_	_	_	_
+34	niykur	ni-	VERB	_	_	_	_	_	_
+35	qa	qa	PART	_	_	_	_	_	_
+36	mosu	mosu	NOUN	_	_	_	_	_	_
+37-38	runaakunata	_	_	_	_	_	_	_	_
+37	runaakuna	runa	NOUN	_	Clusivity[psor]=Ex|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	_
+38	ta	ta	ADP	_	Case=Obj	37	case	_	_
+39	apakuyan	_	VERB	_	_	_	_	_	_
+40-41	ejercitunpaq	_	_	_	_	_	_	_	_
+40	ejercitun	ejercitu	NOUN	_	Number=Sing|Person[psor]=3	_	_	_	_
+41	paq	paq	ADP	_	_	_	_	_	_
+42-43	ishkanpis	_	_	_	_	_	_	_	_
+44	ishkan	ishka-	NUM	_	_	_	_	_	_
+45	pis	pis	PART	_	_	_	_	_	_
+46	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-199	
+# text = Limapis patriotakunapa makinchawnam.		
+# spa = También Lima ya está en manos de los patriotas.		
+# fra = Lima aussi est maintenant aux mains des patriotes.	
+1-2	Limapis	_	_	_	_	_	_	_	_
+1	Lima	Lima	PROPN	_	_	_	_	_	_
+2	pis	pis	PART	_	_	_	_	_	_
+3-4	patriotakunapa	_	_	_	_	_	_	_	_
+3	patriotakuna	patriota	NOUN	_	Number=Plur	_	_	_	_
+4	pa	pa	ADP	_	Case=Gen	_	_	_	_
+5-8	makinchawnam	_	_	_	_	_	_	_	_
+5	makin	maki	NOUN	_	_	_	_	_	_
+6	chaw	chaw	ADP	_	_	_	_	_	_
+7	na	na	PART	_	_	_	_	_	_
+8	m	mi	PART	_	Evident=Fh	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = AKH-279
+# text = Isqun killanaw huelgawan llakiriryan, mallaqaariryan tsarakuykayaptinmi yurikarayaamurqan pukaypa pukaq, rawraq aqtsashqa runakuna, gringukuna.
+# gloss = nueve mes-EQU huelga-COM doler-PCT-CNV-TER tener.hambre-PCT-CNV-TER resistir-INTS-VPL-SUB-ASS aparecer-REFL/MID-PCT-VPL-CIS-PST-3 rojo-INF-MAN rojo-AGT arder-AGT cabello-PFV hombre-PL gringo-PL
+# spa = Durante más de nueve meses cuando seguían resistiendo con temores y hambre, aparecieron hombres medio colorados, rubios, gringos.
+# eng = For more than nine months while they continued resisting even in pain and hunger, half-red men with flaming hair appeared.
+1	Isqun	_	NUM	_	_	_	_	_	_
+2-3	killanaw	_	_	_	_	_	_	_	_
+2	killa	_	NOUN	_	_	_	_	_	_
+3	naw	naw	ADP	_	_	_	_	_	_
+4-5	huelgawan	_	_	_	_	_	_	_	_
+4	huelga	huelga	NOUN	_	_	_	_	_	_
+5	wan	wan	ADP	_	_	_	_	_	_
+6-7	llakiriryan	_	_	_	_	_	_	_	_
+6	llakirir	_	VERB	_	_	_	_	_	_
+7	yan	yan	ADP	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9-10	mallaqaariryan	_	VERB	_	_	_	_	_	_
+9	mallaqaarir	_	VERB	_	_	_	_	_	_
+10	yan	yan	ADP	_	_	_	_	_	_
+11-12	tsarakuykayaptinmi	_	_	_	_	_	_	_	_
+11	tsarakuykayaptin	_	VERB	_	_	_	_	_	_
+12	mi	mi	PART	_	Evident=Fh	_	_	_	_
+13	yurikarayaamurqan	_	VERB	_	_	_	_	_	_
+14	pukaypa	_	VERB	_	_	_	_	_	_
+15	pukaq	_	VERB	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	rawraq	_	VERB	_	_	_	_	_	_
+18	aqtsashqa	_	ADJ	_	_	_	_	_	_
+19	runakuna	_	NOUN	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	gringukuna	_	NOUN	_	_	_	_	_	_
+22	.	.	PUNCT	_	_	_	_	_	_
