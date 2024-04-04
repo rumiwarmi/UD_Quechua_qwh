@@ -38,7 +38,7 @@
 4	mi	mi	PART	_	Evident=Fh	_	_	_	_
 4-5	wamrakunata	_	_	_	_	_	_	_	_
 4	wamrakuna	wamra	NOUN	_	_	_	_	_	_
-5	ta	ta	ADP	_	_	_	case	_	_
+5	ta	ta	ADP	_	_	4	case	_	_
 6	yachatsikuq	yachatsikuq	NOUN	_	_	_	_	_	_
 7	kikintsaykan	kikintsa-	_	_	_	_	_	_	_
 
@@ -58,7 +58,7 @@
 2	mi	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	minita	_	_	_	_	_	_	_	_
 3	minita	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	_	case	_	_
+4	ta	_	ADP	_	_	3	case	_	_
 5	ruraykan	_	VERB	_	_	_	_	_	_
 6-7	punchuta	_	_	_	_	_	_	_	_
 6	punchuta	_	NOUN	_	_	_	_	_	_
@@ -77,7 +77,7 @@
 5	mukmutsin	_	VERB	_	_	_	_	_	_
 6-7	putskakuyninta	_	_	_	_	_	_	_	_
 6	putskakuyninta	_	VERB	_	_	_	_	_	_
-7	ta	_	ADP	_	_	_	case	_	_
+7	ta	_	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-321
@@ -88,11 +88,11 @@
 2	m	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	triiguta	_	_	_	_	_	_	_	_
 3	triiguta	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	_	case	_	_
+4	ta	_	ADP	_	_	3	case	_	_
 5	aqaatsii	_	VERB	_	_	_	_	_	_
 6-7	mulinuchaw	_	_	_	_	_	_	_	_
 6	mulinuchaw	_	NOUN	_	_	_	_	_	_
-7	chaw	_	ADP	_	_	_	case	_	_
+7	chaw	_	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-402
@@ -103,7 +103,7 @@
 2	_	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	kuchita	_	_	_	_	_	_	_	_
 3	kuchita	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	_	case	_	_
+4	ta	_	ADP	_	_	3	case	_	_
 5	uyuyaatsin	_	ADJ	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-405
@@ -115,7 +115,7 @@
 3	m	mi	PART	_	Evident=Fh	_	_	_	_
 4-5	aqtsanta	_	_	_	_	_	_	_	_
 4	aqtsanta	_	NOUN	_	_	_	_	_	_
-5	ta	_	ADP	_	_	_	case	_	_
+5	ta	_	ADP	_	_	4	case	_	_
 6	piltakuyan	_	VERB	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-406
@@ -138,7 +138,7 @@
 2	_	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	kuchita	_	_	_	_	_	_	_	_
 3	kuchita	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	_	case	_	_
+4	ta	_	ADP	_	_	3	case	_	_
 5	qashpan	_	VERB	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-487
@@ -149,15 +149,15 @@
 2	mi	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	uushakunata	_	_	_	_	_	_	_	_
 3	uushakuna	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	_	case	_	_
+4	ta	_	ADP	_	_	3	case	_	_
 5	qatiykan	_	VERB	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-510
 # text = Peruwnintsikpa qiraranchawmi wikuña kan
 # spa = El escudo de nuestra patria tiene una vicuña.
 1-2	Peruwnintsikpa	_	_	_	_	_	_	_	_
-1	Peruwnintsikpa	_	_	_	_	_	_	_	_
-2	pa	_	ADP	_	_	_	case	_	_
+1	Peruwnintsik	_	_	_	_	_	_	_	_
+2	pa	_	ADP	_	_	1	case	_	_
 3-4	qiraranchawmi	_	_	_	_	_	_	_	_
 3	qiraranchaw	_	NOUN	_	_	_	_	_	_
 4	mi	mi	PART	_	Evident=Fh	_	_	_	_
@@ -170,10 +170,10 @@
 1	Mamaa	_	NOUN	_	_	_	_	_	_
 2-3	llullunpa	_	_	_	_	_	_	_	_
 2	llullunpa	_	NOUN	_	_	_	_	_	_
-3	pa	_	ADP	_	_	_	case	_	_
+3	pa	_	ADP	_	_	2	case	_	_
 4-5	piqanta	_	_	_	_	_	_	_	_
 4	piqanta	_	NOUN	_	_	_	_	_	_
-5	ta	_	ADP	_	_	_	case	_	_
+5	ta	_	ADP	_	_	4	case	_	_
 6	awin	_	VERB	_	_	_	_	_	_
 7	quñuq	_	ADJ	_	_	_	_	_	_
 8	yakuwan	_	NOUN	_	_	_	_	_	_
@@ -183,13 +183,13 @@
 # spa = Sembraré quishuar en el límite de la chacra.
 1-2	Chakrapa	_	_	_	_	_	_	_	_
 1	Chakrapa	_	NOUN	_	_	_	_	_	_
-2	pa	_	ADP	_	_	_	case	_	_
+2	pa	_	ADP	_	_	1	case	_	_
 3-4	qurpanchawmi	_	_	_	_	_	_	_	_
 3	qurpanchaw	_	NOUN	_	_	_	_	_	_
 4	mi	mi	PART	_	Evident=Fh	_	_	_	_
 5-6	kiswarta	_	_	_	_	_	_	_	_
 5	kiswarta	_	NOUN	_	_	_	_	_	_
-6	ta	_	ADP	_	_	_	case	_	_
+6	ta	_	ADP	_	_	5	case	_	_
 7	murushaq	_	VERB	_	_	_	_	_	_
 
 # sent_id = DIC-MINEDU-2005-574
@@ -204,7 +204,7 @@
 5	m	mi	PART	_	Evident=Fh	_	_	_	_
 6-7	imatapis	_	_	_	_	_	_	_	_
 6	imatapis	_	PRON	_	_	_	_	_	_
-7	ta	_	ADP	_	_	_	case	_	_
+7	ta	_	ADP	_	_	6	case	_	_
 8-9	wiyaatsu	_	_	_	_	_	_	_	_
 8	wiyaa	_	VERB	_	_	_	_	_	_
 9	tsu	tsu	PART	_	Polarity=Neg	_	_	_	_
@@ -241,4 +241,4 @@
 4	achachaq	_	VERB	_	_	_	_	_	_
 5-6	kashkinta	_	_	_	_	_	_	_	_
 5	kashkinta	_	NOUN	_	_	_	_	_	_
-6	ta	_	ADP	_	_	_	case	_	_
+6	ta	_	ADP	_	_	5	case	_	_
