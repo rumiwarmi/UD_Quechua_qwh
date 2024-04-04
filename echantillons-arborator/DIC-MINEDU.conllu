@@ -1,4 +1,4 @@
-# sent_id = DIC-MINEDU-2005-021
+# sent_id = DIC-MINEDU-2005-021
 # text = Nunakunam uryaykaayan chakrachaw
 # spa = Los hombres están trabajando en la chacra
 1-2	Nunakunam	_	_	_	_	_	_	_	_
@@ -9,17 +9,17 @@
 4	chakrachaw	chakra	NOUN	_	_	_	_	_	_
 5	chaw	chaw	ADP	_	Case=Loc	4	case	_	_
 
-# sent_id = DIC-MINEDU-2005-037
+# sent_id = DIC-MINEDU-2005-037
 # text = Wamra punukuykaq awilunta chawaaratsishqa
 # spa = El niño le interrumpió el sueño a su abuelo
 1	Wamra	wamra	NOUN	_	_	_	_	_	_
 2	punukuykaq	punu-	VERB	_	_	_	_	_	_
 3-4	awilunta	_	_	_	_	_	_	_	_
 3	awilun	awilu	NOUN	_	_	_	_	_	_
-4	ta	ta	ADP	_	_	_	case	_	_
+4	ta	ta	ADP	_	_	3	case	_	_
 5	chawaaratsishqa	chawaa-	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-129
+# sent_id = DIC-MINEDU-2005-129
 # text = Ichik allqum kaniman
 # spa = El perro pequeño me muerde
 1	Ichik	ichik	ADJ	_	_	_	_	_	_
@@ -28,13 +28,13 @@
 3	m	mi	PART	_	Evident=Fh	_	_	_	_
 4	kaniman	kani-	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-187
+# sent_id = DIC-MINEDU-2005-187
 # text = Yachay wayichawmi wamrakunata yachatsikuq kikintsaykan
 # spa = En la escuela el profesor identifica a los alumnos
 1	Yachay	yachay	NOUN	_	_	_	_	_	_
 2-4	wayichawmi	_	_	_	_	_	_	_	_
 2	wayi	wayi	NOUN	_	_	_	_	_	_
-3	chaw	chaw	ADP	_	Case=Loc	_	case	_	_
+3	chaw	chaw	ADP	_	Case=Loc	2	case	_	_
 4	mi	mi	PART	_	Evident=Fh	_	_	_	_
 4-5	wamrakunata	_	_	_	_	_	_	_	_
 4	wamrakuna	wamra	NOUN	_	_	_	_	_	_
@@ -42,7 +42,7 @@
 6	yachatsikuq	yachatsikuq	NOUN	_	_	_	_	_	_
 7	kikintsaykan	kikintsa-	_	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-279
+# sent_id = DIC-MINEDU-2005-279
 # text = Wamrakuna pukllayan makinkunawan.
 # spa = Los niños juegan con las manos.
 1	Wamrakuna	_	NOUN	_	_	_	_	_	_
@@ -50,63 +50,63 @@
 3	makinkunawan	_	NOUN	_	_	_	_	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-306
+# sent_id = DIC-MINEDU-2005-306
 # text = Awaqmi minita ruraykan punchuta awananpaq.
 # spa = El tejedor está preparando la trama para tejer el poncho.
 1-2	Awaqmi	_	_	_	_	_	_	_	_
-1	Awaq	_	VERB	_	_	_	_	_	_
+1	Awaq	awaq	VERB	_	_	_	_	_	_
 2	mi	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	minita	_	_	_	_	_	_	_	_
-3	minita	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	3	case	_	_
-5	ruraykan	_	VERB	_	_	_	_	_	_
+3	mini	mini	NOUN	_	_	_	_	_	_
+4	ta	ta	ADP	_	_	3	case	_	_
+5	ruraykan	rura-	VERB	_	_	_	_	_	_
 6-7	punchuta	_	_	_	_	_	_	_	_
-6	punchuta	_	NOUN	_	_	_	_	_	_
-7	ta	_	ADP	_	_	_	case	_	_
+6	punchu	punchu	NOUN	_	_	_	_	_	_
+7	ta	ta	ADP	_	_	6	case	_	_
 8	awananpaq	_	VERB	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-320
+# sent_id = DIC-MINEDU-2005-320
 # text = Taqay warmim shumaq mukmutsin putskakuyninta.
 # spa = Aquella mujer tuerce la lana muy bien.
-1	Taqay	_	DET	_	_	_	_	_	_
+1	Taqay	taqay	DET	_	_	_	_	_	_
 2-3	warmim	_	_	_	_	_	_	_	_
-2	warmi	_	NOUN	_	_	_	_	_	_
+2	warmi	warmi	NOUN	_	_	_	_	_	_
 3	m	mi	PART	_	Evident=Fh	_	_	_	_
-4	shumaq	_	ADJ	_	_	_	_	_	_
+4	shumaq	shumaq	ADJ	_	_	_	_	_	_
 5	mukmutsin	_	VERB	_	_	_	_	_	_
 6-7	putskakuyninta	_	_	_	_	_	_	_	_
-6	putskakuyninta	_	VERB	_	_	_	_	_	_
+6	putskakuynin	_	VERB	_	_	_	_	_	_
 7	ta	_	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-321
+# sent_id = DIC-MINEDU-2005-321
 # text = Nuqam triiguta aqaatsii mulinuchaw.
 # spa = Yo hago moler el trigo en el molino.
 1-2	Nuqam	_	_	_	_	_	_	_	_
-1	Nuqa	_	_	_	_	_	_	_	_
+1	Nuqa	nuqa	_	_	_	_	_	_	_
 2	m	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	triiguta	_	_	_	_	_	_	_	_
-3	triiguta	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	3	case	_	_
+3	triigu	triigu	NOUN	_	_	_	_	_	_
+4	ta	ta	ADP	_	_	3	case	_	_
 5	aqaatsii	_	VERB	_	_	_	_	_	_
 6-7	mulinuchaw	_	_	_	_	_	_	_	_
-6	mulinuchaw	_	NOUN	_	_	_	_	_	_
-7	chaw	_	ADP	_	_	6	case	_	_
+6	mulinu	mulinu	NOUN	_	_	_	_	_	_
+7	chaw	chaw	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-402
+# sent_id = DIC-MINEDU-2005-402
 # text = Pikim kuchita uyuyaatsin
 # spa = El pique enflaquece al chancho.
 1-2	Pikim	_	_	_	_	_	_	_	_
-1	Pikim	_	NOUN	_	_	_	_	_	_
-2	_	mi	PART	_	Evident=Fh	_	_	_	_
+1	Piki	_	NOUN	_	_	_	_	_	_
+2	m	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	kuchita	_	_	_	_	_	_	_	_
-3	kuchita	_	NOUN	_	_	_	_	_	_
-4	ta	_	ADP	_	_	3	case	_	_
+3	kuchi	_	NOUN	_	_	_	_	_	_
+4	ta	ta	ADP	_	_	3	case	_	_
 5	uyuyaatsin	_	ADJ	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-405
+# sent_id = DIC-MINEDU-2005-405
 # text = Warmi wamrakunam aqtsanta piltakuyan
 # spa = Las niñas se hacen trenzas
 1	Warmi	_	NOUN	_	_	_	_	_	_
@@ -114,11 +114,11 @@
 2	wamrakuna	_	NOUN	_	_	_	_	_	_
 3	m	mi	PART	_	Evident=Fh	_	_	_	_
 4-5	aqtsanta	_	_	_	_	_	_	_	_
-4	aqtsanta	_	NOUN	_	_	_	_	_	_
+4	aqtsan	_	NOUN	_	_	_	_	_	_
 5	ta	_	ADP	_	_	4	case	_	_
 6	piltakuyan	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-406
+# sent_id = DIC-MINEDU-2005-406
 # text = Waynakunaqa pinkullu tukaytam yachakuykaayan
 # spa = Los jóvenes están aprendiendo a tocar la flauta
 1-2	Waynakunaqa	_	_	_	_	_	_	_	_
@@ -126,22 +126,22 @@
 2	qa	qa	PART	_	_	_	_	_	_
 3	pinkullu	_	NOUN	_	_	_	_	_	_
 4-5	tukaytam	_	_	_	_	_	_	_	_
-4	tukaytam	_	VERB	_	_	_	_	_	_
-5	_	mi	PART	_	Evident=Fh	_	_	_	_
+4	tukayta	_	VERB	_	_	_	_	_	_
+5	m	mi	PART	_	Evident=Fh	_	_	_	_
 6	yachakuykaayan	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-483
+# sent_id = DIC-MINEDU-2005-483
 # text = Awilum kuchita qashpan
 # spa = El abuelo está quemando el chancho para pelarlo
 1-2	Awilum	_	_	_	_	_	_	_	_
-1	Awilum	_	NOUN	_	_	_	_	_	_
-2	_	mi	PART	_	Evident=Fh	_	_	_	_
+1	Awilu	_	NOUN	_	_	_	_	_	_
+2	m	mi	PART	_	Evident=Fh	_	_	_	_
 3-4	kuchita	_	_	_	_	_	_	_	_
-3	kuchita	_	NOUN	_	_	_	_	_	_
+3	kuchi	_	NOUN	_	_	_	_	_	_
 4	ta	_	ADP	_	_	3	case	_	_
 5	qashpan	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-487
+# sent_id = DIC-MINEDU-2005-487
 # text = Mitsiqmi uushakunata qatiykan
 # spa = El pastor está arreando las ovejas.
 1-2	Mitsiqmi	_	_	_	_	_	_	_	_
@@ -152,7 +152,7 @@
 4	ta	_	ADP	_	_	3	case	_	_
 5	qatiykan	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-510
+# sent_id = DIC-MINEDU-2005-510
 # text = Peruwnintsikpa qiraranchawmi wikuña kan
 # spa = El escudo de nuestra patria tiene una vicuña.
 1-2	Peruwnintsikpa	_	_	_	_	_	_	_	_
@@ -164,35 +164,36 @@
 5	wikuña	_	NOUN	_	_	_	_	_	_
 6	kan	_	AUX	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-524
+# sent_id = DIC-MINEDU-2005-524
 # text = Mamaa llullunpa piqanta awin quñuq yakuwan
 # spa = Mi madre enjuaga la cabeza de su bebé con agua caliente.
 1	Mamaa	_	NOUN	_	_	_	_	_	_
 2-3	llullunpa	_	_	_	_	_	_	_	_
-2	llullunpa	_	NOUN	_	_	_	_	_	_
+2	llullun	_	NOUN	_	_	_	_	_	_
 3	pa	_	ADP	_	_	2	case	_	_
 4-5	piqanta	_	_	_	_	_	_	_	_
-4	piqanta	_	NOUN	_	_	_	_	_	_
+4	piqan	_	NOUN	_	_	_	_	_	_
 5	ta	_	ADP	_	_	4	case	_	_
 6	awin	_	VERB	_	_	_	_	_	_
 7	quñuq	_	ADJ	_	_	_	_	_	_
 8	yakuwan	_	NOUN	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-530
+# sent_id = DIC-MINEDU-2005-530
 # text = Chakrapa qurpanchawmi kiswarta murushaq
 # spa = Sembraré quishuar en el límite de la chacra.
 1-2	Chakrapa	_	_	_	_	_	_	_	_
-1	Chakrapa	_	NOUN	_	_	_	_	_	_
+1	Chakra	_	NOUN	_	_	_	_	_	_
 2	pa	_	ADP	_	_	1	case	_	_
-3-4	qurpanchawmi	_	_	_	_	_	_	_	_
-3	qurpanchaw	_	NOUN	_	_	_	_	_	_
-4	mi	mi	PART	_	Evident=Fh	_	_	_	_
-5-6	kiswarta	_	_	_	_	_	_	_	_
-5	kiswarta	_	NOUN	_	_	_	_	_	_
-6	ta	_	ADP	_	_	5	case	_	_
-7	murushaq	_	VERB	_	_	_	_	_	_
+3-5	qurpanchawmi	_	_	_	_	_	_	_	_
+3	qurpan	_	NOUN	_	_	_	_	_	_
+4	chaw	_	ADP	_	_	_	_	_	_
+5	mi	mi	PART	_	Evident=Fh	_	_	_	_
+6-7	kiswarta	_	_	_	_	_	_	_	_
+6	kiswar	_	NOUN	_	_	_	_	_	_
+7	ta	_	ADP	_	_	5	case	_	_
+8	murushaq	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-574
+# sent_id = DIC-MINEDU-2005-574
 # text = Rinrii tsaparaptinmi manam imatapis wiyaatsu
 # spa = Cuando mis orejas están tapadas no escucho nada
 1	Rinrii	_	NOUN	_	_	_	_	_	_
@@ -202,36 +203,36 @@
 4-5	manam	_	_	_	_	_	_	_	_
 4	mana	_	ADV	_	_	_	_	_	_
 5	m	mi	PART	_	Evident=Fh	_	_	_	_
-6-7	imatapis	_	_	_	_	_	_	_	_
 6	imatapis	_	PRON	_	_	_	_	_	_
-7	ta	_	ADP	_	_	6	case	_	_
-8-9	wiyaatsu	_	_	_	_	_	_	_	_
-8	wiyaa	_	VERB	_	_	_	_	_	_
-9	tsu	tsu	PART	_	Polarity=Neg	_	_	_	_
+7-8	wiyaatsu	_	_	_	_	_	_	_	_
+7	wiyaa	_	VERB	_	_	_	_	_	_
+8	tsu	tsu	PART	_	Polarity=Neg	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-779
+# sent_id = DIC-MINEDU-2005-779
 # text = Paykunaqa warka rutuychawmi qatswakuykaayan
 # spa = Ellos están bailando durante el corte de pelo.
 1-2	Paykunaqa	_	_	_	_	_	_	_	_
 1	Paykuna	_	_	_	_	_	_	_	_
 2	qa	qa	PART	_	_	_	_	_	_
 3	warka	_	NOUN	_	_	_	_	_	_
-4-5	rutuychawmi	_	_	_	_	_	_	_	_
+4-6	rutuychawmi	_	_	_	_	_	_	_	_
 4	rutuychaw	_	VERB	_	_	_	_	_	_
-5	mi	mi	PART	_	Evident=Fh	_	_	_	_
-6	qatswakuykaayan	_	VERB	_	_	_	_	_	_
+5	chaw	chaw	ADP	_	_	_	_	_	_
+6	mi	mi	PART	_	Evident=Fh	_	_	_	_
+7	qatswakuykaayan	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-852
+# sent_id = DIC-MINEDU-2005-852
 # text = Hirkatam yana pukutay tsaparamun
 # spa = El nubarrón cubre el cerro.
-1-2	Hirkatam	_	_	_	_	_	_	_	_
-1	Hirkata	_	NOUN	_	_	_	_	_	_
-2	m	mi	PART	_	Evident=Fh	_	_	_	_
-3	yana	_	ADJ	_	_	_	_	_	_
-4	pukutay	_	NOUN	_	_	_	_	_	_
-5	tsaparamun	_	VERB	_	_	_	_	_	_
+1-3	Hirkatam	_	_	_	_	_	_	_	_
+1	Hirka	_	NOUN	_	_	_	_	_	_
+2	ta	_	ADP	_	_	_	_	_	_
+3	m	mi	PART	_	Evident=Fh	_	_	_	_
+4	yana	_	ADJ	_	_	_	_	_	_
+5	pukutay	_	NOUN	_	_	_	_	_	_
+6	tsaparamun	_	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-455
+# sent_id = DIC-MINEDU-2005-455
 # text = Yachatsikuqmi puukan achachaq kashkinta
 # spa = El profesor sopla su sopa caliente.
 1-2	Yachatsikuqmi	_	_	_	_	_	_	_	_
@@ -240,5 +241,5 @@
 3	puukan	_	VERB	_	_	_	_	_	_
 4	achachaq	_	VERB	_	_	_	_	_	_
 5-6	kashkinta	_	_	_	_	_	_	_	_
-5	kashkinta	_	NOUN	_	_	_	_	_	_
+5	kashkin	_	NOUN	_	_	_	_	_	_
 6	ta	_	ADP	_	_	5	case	_	_
