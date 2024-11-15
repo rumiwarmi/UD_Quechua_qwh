@@ -1,19 +1,19 @@
-# sent_id = DIC-MINEDU-2005-043																	
-# text = Nuna pura mana kuyanakuy.									
-# gloss = individuo INTC NEG amar-RCP-INF									
-# spa = No amarse entre individuos.										
-# eng = Not loving each other.									
+# sent_id = DIC-MINEDU-2005-043
+# text = Nuna pura mana kuyanakuy.
+# gloss = individuo INTC NEG amar-RCP-INF
+# spa = No amarse entre individuos.
+# eng = Not loving each other.
 1	Nuna	nuna	NOUN	_	Number=Sing	4	obl:mod	_	_
 2	pura	pura	PART	_	_	1	case	_	_
 3	mana	mana	ADV	_	_	4	advmod:neg	_	_
 4	kuyanakuy	kuya-	VERB	_	VerbForm=Inf|Voice=Rcp	0	root	_	naku=Rec
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = CRH-06-307																			
-# text = Paniillam sakristannii i kikiillam kantanantin misata rurarii.																			
-# gloss = hermana-POSS.1-LIM-ASS sacristán-POSS.1 y yo.mismo-LIM-ASS canto-TOT misa-OBJ hacer-PCT-1																			
-# spa = Mi hermana no más es mi sacristán y yo mismo celebro la misa con canto.										
-# eng = My sister is my sacristan, and I give mass myself with all its songs.																		
+# sent_id = CRH-06-307
+# text = Paniillam sakristannii i kikiillam kantanantin misata rurarii.
+# gloss = hermana-POSS.1-LIM-ASS sacristán-POSS.1 y yo.mismo-LIM-ASS canto-TOT misa-OBJ hacer-PCT-1
+# spa = Mi hermana no más es mi sacristán y yo mismo celebro la misa con canto.
+# eng = My sister is my sacristan, and I give mass myself with all its songs.
 1-3	Paniillam	_	_	_	_	_	_	_	_
 1	Panii	pani	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
 2	lla	lla	PART	_	_	1	advmod:emph	_	_
@@ -27,11 +27,11 @@
 9	kantanantin	kantana	NOUN	_	Case=Soc	10	amod	_	_
 10-11	misata	_	_	_	_	_	_	_	_
 10	misa	misa	NOUN	_	Number=Sing	12	obj	_	_
-11	ta	ta	ADP	_	Case=Obj	10	case	_	_
+11	ta	ta	ADP	_	Case=Acc	10	case	_	_
 12	rurarii	rura-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	rI=PCT
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = CRH-03-136												
+# sent_id = CRH-03-136
 # text = Tsaynaw tikrarirnash, ahenti munisipalqa waqallapa rogarkurqunaq, "Don Tomás, hurqaykamay."																		
 # gloss = así voltear-PCT-GER-HRS agente municipal-TOP llorando rogar-EDU-REC-RPST don Tomás sacar-INTS																	
 # spa = Cuando se encontró en este extremo, el agente municipal rogó con lágrimas, "Don Tomás, sácame, por favor."																
@@ -66,7 +66,7 @@
 2-3	Waraschaw	_	_	_	_	_	_	_	_
 2	Waras	Waras	PROPN	_	_	4	obl:mod	_	_
 3	chaw	chaw	ADP	_	Case=Loc	2	case	_	_
-4	qallaykurqan	qalla-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	ykU=Ints
+4	qallaykurqan	qallayku-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	ykU=Ints
 5	agosto	agosto	NOUN	_	Number=Sing	4	nmod:tmod	_	OrigLang=spa
 6	de	de	ADP	_	_	7	case	_	OrigLang=spa
 7	1921	1921	NUM	_	NumType=Card	5	nmod	_	_
@@ -81,7 +81,7 @@
 2-3	tardipa	_	_	_	_	_	_	_	_
 2	tardi	tardi	NOUN	_	Number=Sing	4	obl:mod	_	_
 3	pa	pa	ADP	_	Case=Prl	2	case	_	_
-4	senatsiyaamaq	sena-	VERB	_	Aspect=Hab|Number=Plur|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Past	0	root	_	tsi=Fct
+4	senatsiyaamaq	senatsi-	VERB	_	Aspect=Hab|Number=Plur|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Past	0	root	_	tsi=Fct
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = AKH-051-1									
@@ -97,12 +97,12 @@
 5	kushishqa	kushi-	VERB	_	VerbForm=Part|Voice=Pass	11	advcl	_	_
 6-7	qillayniita	_	_	_	_	_	_	_	_
 6	qillaynii	qillay	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	11	obj	_	_
-7	ta	ta	ADP	_	Case=Obj	7	case	_	_
+7	ta	ta	ADP	_	Case=Acc	7	case	_	_
 8-10	paykunatapis	_	_	_	_	_	_	_	_
 8	paykuna	paykuna	PRON	_	Number=Plur|Person=3|PronType=Prs	11	iobj	_	_
-9	ta	ta	ADP	_	Case=Obj	8	case	_	_
+9	ta	ta	ADP	_	Case=Acc	8	case	_	_
 10	pis	pis	PART	_	_	8	discourse:conn	_	_
-11	qaraykuq	qu-	VERB	_	Aspect=Hab|Tense=Past	0	root	_	raA=Dur|ykU=Ints
+11	qaraykuq	qarayku-	VERB	_	Aspect=Hab|Tense=Past	0	root	_	raA=Dur|ykU=Ints
 12	kaa	ka-	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
 13	;	;	PUNCT	_	_	11	punct	_	_
 
@@ -152,7 +152,7 @@
 9	mayu	mayu	NOUN	_	Number=Sing	6	advcl	_	_
 10-11	hananta	_	_	_	_	_	_	_	_
 10	hanan	hana	NOUN	_	Number=Sing|Person[psor]=3	9	case	_	_
-11	ta	ta	ADP	_	Case=Obj	10	case	_	_
+11	ta	ta	ADP	_	Case=Acc	10	case	_	_
 12	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = CRH-21-024									
@@ -163,8 +163,8 @@
 1	Tsayman	tsayman	PRON	_	PronType=Dem	3	advmod	_	_
 2	limpu	limpu	ADV	_	_	3	advmod	_	_
 3-5	ashtarirnam	_	_	_	_	_	_	_	_
-3	ashtarir	ashta-	VERB	_	VerbForm=Conv	7	advcl	_	rI=Pct
-4	na	na	PART	_	Aspect=Perf	3	aux	_	_
+3	ashtarir	ashtari-	VERB	_	VerbForm=Conv	7	advcl	_	rI=Pct
+4	na	na	PART	_	Aspect=Perf	3	advmod	_	_
 5	m	mi	PART	_	Evident=Fh	3	advmod:emph	_	_
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	halutsintsik	halu-	VERB	_	Clusitivity=Yes|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Cau	0	root	_	_
@@ -194,7 +194,7 @@
 2	m	mi	PART	_	_	1	advmod:emph	_	_
 3-5	paniitapis	_	_	_	_	_	_	_	_
 3	panii	pani	NOUN	_	Number=Sing|Person[psor]=1	6	obj	_	_
-4	ta	ta	ADP	_	Case=Obj	3	case	_	_
+4	ta	ta	ADP	_	Case=Acc	3	case	_	_
 5	pis	pis	PART	_	_	3	advmod:emph	_	_
 6	tarishaq	tari-	VERB	_	Mood=Ind|Person=1|Tense=Fut	0	root	_	_
 7	?	?	PUNCT	_	_	6	punct	_	_
@@ -215,7 +215,7 @@
 7	kaykaayaa	ka-	AUX	_	Aspect=Prog|Number=Plur|Person=1|Tense=Pres	5	aux	_	_
 8-9	llapaakunapis	_	_	_	_	_	_	_	_
 8	llapaakuna	llapa-	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Tot	5	nsubj	_	_
-9	pis	pis	PART	_	_	8	cc	_	_
+9	pis	pis	PART	_	_	8	discourse:conn	_	_
 10	,	,	PUNCT	_	_	11	punct	_	_
 11-12	hirkakunapis	_	_	_	_	_	_	_	_
 11	hirkakuna	hirka	NOUN	_	Number=Plur	8	conj	_	_
@@ -251,13 +251,13 @@
 # eng = To this one the women weave the weft, neatly even.									
 # fra = A celle-ci les femmes tissent la trame, bien égale.									
 1-2	Tsaytaman	_	_	_	_	_	_	_	_
-1	Tsayta	tsay	PRON	_	Case=Obj|Deixis=Med|PronType=Dem	4	obl	_	_
+1	Tsayta	tsay	PRON	_	Case=Acc|Deixis=Med|PronType=Dem	4	obl	_	_
 2	man	man	ADP	_	Case=Dat	1	case	_	_
 3	warmikuna	warmi	NOUN	_	Number=Plur	4	nsubj	_	_
 4	putskayan	putska-	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 5-6	tramata	_	_	_	_	_	_	_	_
 5	trama	trama	NOUN	_	Number=Sing	4	obj	_	_
-6	ta	ta	ADP	_	Case=Obj	5	case	_	_
+6	ta	ta	ADP	_	Case=Acc	5	case	_	_
 7	shumaq	shumaq	ADV	_	_	8	advmod	_	_
 8-9	parehulla	_	_	_	_	_	_	_	_
 8	parehu	parehu	ADJ	_	_	4	advmod	_	_
@@ -276,7 +276,7 @@
 4-5	rumikunachaw	_	_	_	_	_	_	_	_
 4	rumikuna	rumi	NOUN	_	Number=Plur	6	obl	_	_
 5	chaw	chaw	ADP	_	Case=Loc	4	case	_	_
-6	chipapaykuq	chipapa-	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3	0	root	_	ykU=Ints
+6	chipapaykuq	chipapayku-	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3	0	root	_	ykU=Ints
 7	qillaynii	qillay	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -304,7 +304,7 @@
 14	pa	pa	ADP	_	Case=Gen	13	case	_	_
 15-17	wayiitaraq	_	_	_	_	_	_	_	_
 15	wayii	wayi	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	12	obj	_	_
-16	ta	ta	ADP	_	Case=Obj	15	case	_	_
+16	ta	ta	ADP	_	Case=Acc	15	case	_	_
 17	raq	raq	PART	_		15	advmod	_	_
 18	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -317,7 +317,7 @@
 1	Mana	mana	ADV	_	Polarity=Neg	3	advmod:neg	_	_
 2	m	mi	PART	_	Evident=Fh	1	advmod:emph	_	_
 3-4	qunqayaqtsu	_	_	_	_	_	_	_	_
-3	qunqayaq	qunqa-	VERB	_	Aspect=Hab|Number=Plur|Tense=Pst	0	root	_	_
+3	qunqayaq	qunqa-	VERB	_	Aspect=Hab|Number=Plur|Tense=Past	0	root	_	_
 4	tsu	tsu	PART	_	Polarity=Neg	3	advmod:neg	_	_
 5	imaypis	imaypis	PRON	_	_	3	advmod	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
@@ -332,14 +332,15 @@
 2-3	nuqapis	_	_	_	_	_	_	_	_
 2	nuqa	nuqa	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 3	pis	pis	PART	_	_	2	discourse:conn	_	_
-4	kaykarqaa	ka-	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	7	cop	_	ykU=INTS
+4	kaykarqaa	kayka-	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp	7	cop	_	ykU=INTS
 5	ishkay	ishkay	NUM	_	NumType=Card	6	flat	_	_
 6	chunka	chunka	NUM	_	NumType=Card	7	nummod	_	_
-7-9	watayuqnam	_	_	_	_	_	_	_	_
-7	watayuq	wata	NOUN	_	Case=Orn	0	root	_	_
-8	na	na	PART	_	_	7	advmod	_	_
-9	m	mi	PART	_	Evident=Fh	7	advmod:emph	_	_
-10	.	.	PUNCT	_	_	10	punct	_	_
+7-10	watayuqnam	_	_	_	_	_	_	_	_
+7	wata	wata	NOUN	_	Number=Sing	0	root	_	_
+8	yuq	yuq	ADP	_	Case=Orn	7	case	_	_
+9	na	na	PART	_	_	7	advmod	_	_
+10	m	mi	PART	_	Evident=Fh	7	advmod:emph	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = CRH-04-282									
 # text = Paykunam mana ni ima ayudata chaskiyanraqtsu.									
@@ -354,41 +355,41 @@
 5	ima	ima	DET	_	PronType=Ind	6	det	_	_
 6-7	ayudata	_	_	_	_	_	_	_	_
 6	ayuda	ayuda	NOUN	_	Number=Sing	8	obj	_	_
-7	ta	ta	ADP	_	Case=Obj	6	case	_	_
+7	ta	ta	ADP	_	Case=Acc	6	case	_	_
 8-10	chaskiyanraqtsu	_	_	_	_	_	_	_	_
 8	chaskiyan	chaski-	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 9	raq	raq	PART	_	_	8	advmod	_	_
 10	tsu	tsu	PART	_	_	8	advmod:neg	_	_
 11	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = CRH-04-250									
-# text = Nuqata señor parokum nimarqan, “Ama imatapis ashiyayraqtsu.									
-# gloss = yo-OBJ señor párroco-ASS decir-1O-PST-3 NEG.INJ lo.que.sea buscar-VPL-IMP.2-INACP-NEG									
-# spa = El señor párroco me había dicho, “No busquen nada todavía.									
-# fra = Monsieur le curé m’avait dit, « Ne cherchez rien pour le moment.									
+# sent_id = CRH-04-250
+# text = Nuqata señor parokum nimarqan, “Ama imatapis ashiyayraqtsu.
+# gloss = yo-OBJ señor párroco-ASS decir-1O-PST-3 NEG.INJ lo.que.sea buscar-VPL-IMP.2-INACP-NEG
+# spa = El señor párroco me había dicho, “No busquen nada todavía.
+# fra = Monsieur le curé m’avait dit, « Ne cherchez rien pour le moment.
 1-2	Nuqata	_	_	_	_	_	_	_	_
 1	Nuqa	nuqa	PRON	_	PronType=Prs	6	obj	_	_
-2	ta	ta	ADP	_	Case=Obj	1	case	_	_
+2	ta	ta	ADP	_	Case=Acc	1	case	_	_
 3	señor	señor	NOUN	_	Number=Sing	6	nsubj	_	_
 4-5	parokum	_	_	_	_	_	_	_	_
 4	paroku	paroku	NOUN	_	Number=Sing	7	nmod	_	_
 5	m	mi	PART	_	Evident=Fh	4	advmod:emph	_	_
-6	nimarqan	ni-	VERB	_	Number=Sing|Number[Obj]=Sing|Person=3|Person[Obj]=1|Tense=Pst	0	root	_	_
+6	nimarqan	ni-	VERB	_	Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Past	0	root	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	“	“	PUNCT	_	_	11	punct	_	_
 9	Ama	ama	ADV	_	Mood=Imp|Polarity=Neg	11	advmod:neg	_	_
-10	imatapis	imatapis	PRON	_	Case=Obj|PronType=Ind	11	advmod	_	_
+10	imatapis	imatapis	PRON	_	Case=Acc|PronType=Ind	11	advmod	_	_
 11-13	ashiyayraqtsu	_	_	_	_	_	_	_	_
 11	ashiyay	ashi-	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	6	parataxis	_	_
 12	raq	raq	PART	_	_	11	advmod	_	_
 13	tsu	tsu	PART	_	Polarity=Neg	13	advmod:neg	_	_
 14	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = CRH-04-129									
-# text = Lomismu wawqii Carmelo Karwaschaw, “kawayantsuraq, wanuyashqatsuraq?” nir.									
-# gloss = lo.mismo hermano-POSS.1 Carmelo Carhuas-LOC vivir-VPL-3-NEG-INACP morir-VPL-PFV-NEG-INACP decir-CNV									
-# spa = Lo mismo decía mi hermano Carmelo en Carhuás “¿será que viven, habrán muerto?”									
-# fra = De la même manière mon frère Carmelo, à Carhuas, se demandait : « Vivent-ils encore, sont-ils morts ? »									
+# sent_id = CRH-04-129
+# text = Lomismu wawqii Carmelo Karwaschaw, “kawayantsuraq, wanuyashqatsuraq?” nir.
+# gloss = lo.mismo hermano-POSS.1 Carmelo Carhuas-LOC vivir-VPL-3-NEG-INACP morir-VPL-PFV-NEG-INACP decir-CNV
+# spa = Lo mismo decía mi hermano Carmelo en Carhuás “¿será que viven, habrán muerto?”
+# fra = De la même manière mon frère Carmelo, à Carhuas, se demandait : « Vivent-ils encore, sont-ils morts ? »
 1	Lomismu	lomismu	ADV	_	_	15	advmod	_	_
 2	wawqii	wawqi	NOUN	_	Number=Sing|Person[psor]=1	15	nsubj	_	_
 3	Carmelo	Carmelo	PROPN	_	_	2	nmod	_	_
@@ -408,4 +409,13 @@
 14	”	”	PUNCT	_	_	8	punct	_	_
 15	nir	ni-	VERB	_	VerbForm=Conv	0	root	_	_
 16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = DIC-MINEDU-2005-129
+# text = Ichik allqum kaniman
+# spa = El perro pequeño me muerde
+1	Ichik	ichik	ADJ	_	_	2	amod	_	_
+2-3	allqum	_	_	_	_	_	_	_	_
+2	allqu	allqu	NOUN	_	Number=Sing	4	nsubj	_	_
+3	m	mi	PART	_	Evident=Fh	2	advmod:emph	_	_
+4	kaniman	kani-	VERB	_	Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Pres	0	root	_	_
 

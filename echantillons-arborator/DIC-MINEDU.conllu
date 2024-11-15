@@ -19,28 +19,19 @@
 4	ta	ta	ADP	_	_	3	case	_	_
 5	chawaaratsishqa	chawaa-	VERB	_	_	_	_	_	_
 
-# sent_id = DIC-MINEDU-2005-129
-# text = Ichik allqum kaniman
-# spa = El perro pequeño me muerde
-1	Ichik	ichik	ADJ	_	_	_	_	_	_
-2-3	allqum	_	_	_	_	_	_	_	_
-2	allqu	allqu	NOUN	_	_	_	_	_	_
-3	m	mi	PART	_	Evident=Fh	_	_	_	_
-4	kaniman	kani-	VERB	_	_	_	_	_	_
-
 # sent_id = DIC-MINEDU-2005-187
 # text = Yachay wayichawmi wamrakunata yachatsikuq kikintsaykan
 # spa = En la escuela el profesor identifica a los alumnos
-1	Yachay	yachay	NOUN	_	_	_	_	_	_
+1	Yachay	yachay	NOUN	_	_	2	compound	_	_
 2-4	wayichawmi	_	_	_	_	_	_	_	_
-2	wayi	wayi	NOUN	_	_	_	_	_	_
+2	wayi	wayi	NOUN	_	_	8	obl	_	_
 3	chaw	chaw	ADP	_	Case=Loc	2	case	_	_
-4	mi	mi	PART	_	Evident=Fh	_	_	_	_
-4-5	wamrakunata	_	_	_	_	_	_	_	_
-4	wamrakuna	wamra	NOUN	_	_	_	_	_	_
-5	ta	ta	ADP	_	_	4	case	_	_
-6	yachatsikuq	yachatsikuq	NOUN	_	_	_	_	_	_
-7	kikintsaykan	kikintsa-	_	_	_	_	_	_	_
+4	mi	mi	PART	_	Evident=Fh	_	2	advmod:emph	_	_
+5-6	wamrakunata	_	_	_	_	_	_	_	_
+5	wamrakuna	wamra	NOUN	_	Number=Plur	8	obj	_	_
+6	ta	ta	ADP	_	Case=Acc	5	case	_	_
+7	yachatsikuq	yachatsikuq	NOUN	_	Number=Sing	8	nsubj	_	_
+8	kikintsaykan	kikintsa-	_	_	Aspect=Prog|Person=3|Tense=Pres	0	root	_	_
 
 # sent_id = DIC-MINEDU-2005-279
 # text = Wamrakuna pukllayan makinkunawan.
