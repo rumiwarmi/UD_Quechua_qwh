@@ -6,7 +6,7 @@
 1	Nuna	nuna	NOUN	_	Number=Sing	4	obl:mod	_	_
 2	pura	pura	PART	_	_	1	case	_	_
 3	mana	mana	ADV	_	_	4	advmod:neg	_	_
-4	kuyanakuy	kuya-	VERB	_	VerbForm=Inf|Voice=Rcp	0	root	_	naku=Rec
+4	kuyanakuy	kuyanaku-	VERB	_	VerbForm=Inf|Voice=Rcp	0	root	_	naku=Rec
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = CRH-06-307
@@ -28,7 +28,7 @@
 10-11	misata	_	_	_	_	_	_	_	_
 10	misa	misa	NOUN	_	Number=Sing	12	obj	_	_
 11	ta	ta	ADP	_	Case=Acc	10	case	_	_
-12	rurarii	rura-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	rI=PCT
+12	rurarii	rurari-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	rI=PCT
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = CRH-03-136
@@ -38,7 +38,7 @@
 # eng = When it turned to be so, the municipal officer begged with tears: “Don Tómas, let go of me”.														
 1	Tsaynaw	tsaynaw	ADV	_	_	2	advmod	_	_
 2-4	tikrarirnash	_	_	_	_	_	_	_	_
-2	tikrarir	tikra-	VERB	_	VerbForm=Conv	10	advcl	_	_
+2	tikrarir	tikrarir	VERB	_	VerbForm=Conv	10	advcl	_	_
 3	na	na	PART	_	Aspect=Acp	2	advmod	_	_
 4	sh	shi	PART	_	Evident=Nfh	2	advmod:emph	_	_
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -46,14 +46,15 @@
 7-8	munisipalqa	_	_	_	_	_	_	_	_
 7	munisipal	munisipal	ADJ	_	_	6	amod	_	OrigLang=spa
 8	qa	qa	PART	_	Case=Top	7	case	_	_
-9	waqallapa	waqa-	ADV	_	_	10	advmod	_	_
-10	rogarkurqunaq	rogar-	VERB	_	Aspect=Imp|Mood=Qot|Number=Sing|Person=3|Tense=Past	0	root	_	_
+9	waqallapa	waqallapa	ADV	_	_	10	advmod	_	_
+10	rogarkurqunaq	rogarku-	VERB	_	Aspect=Perf|Mood=Qot|Number=Sing|Person=3|Tense=Past	0	root	_	rkU=Edu
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	"	"	PUNCT	_	_	16	punct	_	_
 13	Don	don	NOUN	_	Gender=Masc	14	flat	_	OrigLang=spa
 14	Tomás	Tomás	PROPN	_	_	16	vocative	_	_
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	hurqaykamay	hurqu-	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	10	ccomp	_	ykU=Ints
+16	hurqaykamay	hurquyku-	VERB	_	Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|Tense=Pres
+	10	ccomp	_	ykU=Ints
 17	.	.	PUNCT	_	_	16	punct	_	_
 18	"	"	PUNCT	_	_	16	punct	_	_
 
@@ -97,7 +98,7 @@
 5	kushishqa	kushi-	VERB	_	VerbForm=Part|Voice=Pass	11	advcl	_	_
 6-7	qillayniita	_	_	_	_	_	_	_	_
 6	qillaynii	qillay	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	11	obj	_	_
-7	ta	ta	ADP	_	Case=Acc	7	case	_	_
+7	ta	ta	ADP	_	Case=Acc	6	case	_	_
 8-10	paykunatapis	_	_	_	_	_	_	_	_
 8	paykuna	paykuna	PRON	_	Number=Plur|Person=3|PronType=Prs	11	iobj	_	_
 9	ta	ta	ADP	_	Case=Acc	8	case	_	_
@@ -115,7 +116,7 @@
 1	Mana	mana	ADV	_	Polarity=Neg	3	advmod:neg	_	_
 2	m	mi	PART	_	Evident=Fh	1	advmod:emph	_	_
 3-4	maqamarqatsu	_	_	_	_	_	_	_	_
-3	maqamarqa	maqa-	VERB	_	Mood=Ind|Number=Sing|O=1|Person=3|Tense=Past	0	root	_	_
+3	maqamarqa	maqa-	VERB	_	Mood=Ind|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Past	0	root	_	_
 4	tsu	tsu	PART	_	Focus=Yes|Polarity=Neg	3	advmod:neg	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -167,7 +168,7 @@
 4	na	na	PART	_	Aspect=Perf	3	advmod	_	_
 5	m	mi	PART	_	Evident=Fh	3	advmod:emph	_	_
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	halutsintsik	halu-	VERB	_	Clusitivity=Yes|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Cau	0	root	_	_
+7	halutsintsik	halu-	VERB	_	Clusivity=Yes|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Cau	0	root	_	_
 8-9	ashnuwan	_	_	_	_	_	_	_	_
 8	ashnu	ashnu	NOUN	_	Number=Sing	7	obl	_	_
 9	wan	wan	ADP	_	Case=Ins	8	case	_	_
@@ -287,7 +288,7 @@
 # eng = Then the first spirit said, “Compadre, let’s rather go to my house.									
 1-2	Tsaynash	_	_	_	_	_	_	_	_
 1	Tsayna	tsayna	ADV	_	_	7	advmod	_	_
-2	sh	shi	PART	_	Evident=Nfh	2	advmod:emph	_	_
+2	sh	shi	PART	_	Evident=Nfh	1	advmod:emph	_	_
 3	huk	huk	NUM	_	_	5	amod	_	_
 4	kaq	kaq	AUX	_	_	3	cop	_	_
 5-6	almaqa	_	_	_	_	_	_	_	_
@@ -359,7 +360,7 @@
 8-10	chaskiyanraqtsu	_	_	_	_	_	_	_	_
 8	chaskiyan	chaski-	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 9	raq	raq	PART	_	_	8	advmod	_	_
-10	tsu	tsu	PART	_	_	8	advmod:neg	_	_
+10	tsu	tsu	PART	_	Polarity=Neg	8	advmod:neg	_	_
 11	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = CRH-04-250
@@ -382,7 +383,7 @@
 11-13	ashiyayraqtsu	_	_	_	_	_	_	_	_
 11	ashiyay	ashi-	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	6	parataxis	_	_
 12	raq	raq	PART	_	_	11	advmod	_	_
-13	tsu	tsu	PART	_	Polarity=Neg	13	advmod:neg	_	_
+13	tsu	tsu	PART	_	Polarity=Neg	11	advmod:neg	_	_
 14	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = CRH-04-129
@@ -418,4 +419,53 @@
 2	allqu	allqu	NOUN	_	Number=Sing	4	nsubj	_	_
 3	m	mi	PART	_	Evident=Fh	2	advmod:emph	_	_
 4	kaniman	kani-	VERB	_	Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Tense=Pres	0	root	_	_
+
+# sent_id = DIC-MINEDU-2005-187
+# text = Yachay wayichawmi wamrakunata yachatsikuq kikintsaykan
+# spa = En la escuela el profesor identifica a los alumnos
+1	Yachay	yachay	NOUN	_	Number=Sing	2	compound	_	_
+2	wayi	wayi	NOUN	_	Number=Sing	8	obl	_	_
+3	chaw	chaw	ADP	_	Case=Loc	2	case	_	_
+4	mi	mi	PART	_	Evident=Fh	2	advmod:emph	_	_
+5-6	wamrakunata	_	_	_	_	_	_	_	_
+5	wamrakuna	wamra	NOUN	_	Number=Plur	8	obj	_	_
+6	ta	ta	ADP	_	Case=Acc	5	case	_	_
+7	yachatsikuq	yachatsikuq	NOUN	_	Number=Sing	8	nsubj	_	_
+8	kikintsaykan	kikintsa-	VERB	_	Aspect=Prog|Person=3|Tense=Pres	0	root	_	_
+
+# sent_id = DIC-MINEDU-2005-574
+# text = Rinrii tsaparaptinmi manam imatapis wiyaatsu
+# spa = Cuando mis orejas están tapadas no escucho nada
+1	Rinrii	rinri	NOUN	_	_	2	nsubj	_	_
+2-3	tsaparaptinmi	_	_	_	_	_	_	_	_
+2	tsaparaptin	tsaparapti-	VERB	_	Person=3|VerbForm=Conv	7	advcl	_	_
+3	mi	mi	PART	_	Evident=Fh	2	advmod:emph	_	_
+4-5	manam	_	_	_	_	_	_	_	_
+4	mana	mana	ADV	_	Polarity=Neg	6	advmod:neg	_	_
+5	m	mi	PART	_	Evident=Fh	4	advmod:emph	_	_
+6	imatapis	imatapis	PRON	_	Case=Acc|PronType=Ind	7	obj	_	_
+7-8	wiyaatsu	_	_	_	_	_	_	_	_
+7	wiyaa	wiya-	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+8	tsu	tsu	PART	_	Polarity=Neg	7	advmod:neg	_	_
+
+# sent_id = CP-19-026									
+# text = Tsaynawshi waktsa nunapa muspayninchaw ishkan hirkakuna rimakuyaq. 									
+# gloss = así-HRS pobre hombre-GEN sueño-POSS.3-LOC los.dos cerro-PL conversar-REFL-VPL-HAB									
+# spa = Así conversaban los dos cerros en los sueños de aquel hombre pobre.									
+# fr =  C’est ainsi que conversaient les deux montagnes dans le rêve de l’homme pauvre.									
+# eng = This is how the two mountains conversed in the poor man's dream.									
+1-2	Tsaynawshi	_	_	_	_	_	_	_	_
+1	tsaynaw	tsaynaw	ADV	_	_	10	advmod	_	_
+2	shi	shi	PART	_	Evident=Nfh	1	advmod:emph	_	_
+3	waktsa	waktsa	ADJ	_	_	4	amod	_	_
+4-5	nunapa	_	_	_	_	_	_	_	_
+4	nuna	nuna	NOUN	_	Number=Sing	6	nmod:poss	_	_
+5	pa	pa	ADP	_	Case=Gen	4	case	_	_
+6-7	muspayninchaw	_	_	_	_	_	_	_	_
+6	muspaynin	muspay	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
+7	chaw	chaw	ADP	_	Case=Loc	6	case	_	_
+8	ishkan	ishka-	DET	_	Number=Sing|NumType=Sets	9	nummod	_	_
+9	hirkakuna	hirka	NOUN	_	Number=Plur	10	nsubj	_	_
+10	rimakuyaq	rimaku-	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
